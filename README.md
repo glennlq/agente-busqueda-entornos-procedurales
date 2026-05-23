@@ -1,4 +1,4 @@
-# Explorador de Mapas IA: Benchmarking de Algoritmos de Búsqueda
+# Explorador de Mapas IA: Diseño de agents de Búsqueda en Entornos Procedurales - Benchmarking de Algoritmos
 
 Este repositorio contiene el framework experimental desarrollado para evaluar la eficiencia y el rendimiento de algoritmos de búsqueda en entornos procedurales. El sistema compara la **Búsqueda de Costo Uniforme (UCS)** contra una implementación optimizada de **A***, utilizando una heurística original basada en la esperanza matemática del terreno.
 
